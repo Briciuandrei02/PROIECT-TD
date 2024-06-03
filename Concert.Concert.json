@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "665cd940031924bbbb5a6752"
+  },
+  "numarIdentificare": 1,
+  "nume": "Concert Rock",
+  "locatie": "Stadionul National",
+  "data": "2024-06-15T20:00:00Z",
+  "bilete": "1000"
+}]
